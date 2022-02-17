@@ -1,5 +1,13 @@
 # Creating Deep Progression Charts with Python
 
+<!--ts-->
+**Table of Contents:**
+- [Motivation](#motivation)
+- [What are Deep Progressions?](#what-are-deep-progressions)
+- [What Insights Can We Find From This Type of Analysis/Visualisation?](#what-insights-can-we-find-from-this-type-of-analysisvisualisation)
+- [Acknowledgements](#acknowledgements)
+<!--te-->
+
 # Motivation
 
 In this project, we will learn how to use Python to:
