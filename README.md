@@ -1,30 +1,33 @@
-# Creating Deep Completion Charts with Python
-
-![Made with](https://img.shields.io/badge/Made%20with-Python-blue.svg)
-![Made with](https://img.shields.io/badge/And-Jupyter-orange.svg)
-[![GitHub last commit](https://img.shields.io/github/last-commit/KOrfanakis/Deep_Completion_Charts)](https://github.com/KOrfanakis/Deep_Completion_Charts/commits/master)
-[![GitHub repo size](https://img.shields.io/github/repo-size/KOrfanakis/Deep_Completion_Charts)](https://github.com/KOrfanakis/Deep_Completion_Charts/archive/master.zip)
-
 <p align="center">
-  <img src="Images/Figure01-Raheem_Sterling.png" width="500" title="hover text">
+  <img src="Images/Repo_Title.svg" width="700" title="hover text">
 </p>
 <p align="center">
-  <em>Deep completions (passes and carries) performed by Raheem Sterling in the Euro 2020.</em>
+  A short tutorial on football analytics that demonstrates how to extract and visualise deep completions.
 </p>
+
+---
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
+[![and-jupyter](https://img.shields.io/badge/And%20-Jupyter-orange.svg)](https://jupyter.org/try)
+[![data-statsbomb](https://img.shields.io/badge/Data%20-StatsBomb-red.svg)](https://statsbomb.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-0298c3.svg)](https://opensource.org/licenses/MIT)
+[![GitHub-last-commit](https://img.shields.io/github/last-commit/KOrfanakis/Deep_Completion_Charts)](https://github.com/KOrfanakis/Deep_Completion_Charts/commits/master)
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=critical)
 
 <br>
 
 <!--ts-->
 **Table of Contents:**
-- [Motivation](#motivation)
-- [What are Deep Completions?](#what-are-deep-completions)
-- [What Insights Can We Find From This Type of Analysis/Visualisation?](#what-insights-can-we-find-from-this-type-of-analysisvisualisation)
-- [Acknowledgements](#acknowledgements)
+- [📌Motivation](#motivation)
+- [🔍What are Deep Completions?](#what-are-deep-completions)
+- [❓What Insights Can We Gain From This Type of Analysis/Visualisation?](#what-insights-can-we-gain-from-this-type-of-analysisvisualisation)
+- [🙏Acknowledgements](#acknowledgements)
+- [📞Feedback](#feedback)
 <!--te-->
 
 <br>
 
-# Motivation
+# 📌Motivation
 
 In this project, we will learn how to use Python to:
 
@@ -39,15 +42,23 @@ I have also expanded on the data extraction and pre-processing steps, which was 
 
 <br>
 
-# What are Deep Completions?
+# 🔍What are Deep Completions?
 
-To understand what a deep completion is, we start by defining a semi-circle with the centre at the mid-point of the goal and a diameter equal to the width of the penalty area plus the penalty arc (see orange dashed line in Figure). 
+To understand what a deep completion is, we start by defining a semi-circle with the centre at the mid-point of the goal and a diameter equal to the width of the penalty area plus the penalty arc (see orange dashed line in Figure 1). 
 A pass or carry is classified as a deep completion if it starts outside this region but ends inside it. 
 Corners, free kicks, and incomplete passes are excluded from this analysis.
 
+<p align="center">
+  <img src="Images/Figure01-Raheem_Sterling.png" width="500" title="hover text">
+</p>
+<p align="center">
+  <em>Figure 1: Deep completions (passes and carries) performed by Raheem Sterling in the Euro 2020.</em>
+</p>
+
+
 <br>
 
-# What Insights Can We Find From This Type of Analysis/Visualisation?
+# ❓What Insights Can We Gain From This Type of Analysis/Visualisation?
 
 [Yash](https://twitter.com/Odriozolite) perfectly described how analysing and visualising deep completions can help us. Below, I have included Yash’s response taken from their recent [article]((https://cj-mayes.com/2022/01/05/deep-progression-chart-yash-t/)):
 
@@ -57,9 +68,23 @@ Looking deeper at it, we can further break it down to see what mode players tend
 
 <br>
 
-# Acknowledgements
+# 🙏Acknowledgements
 
 Firstly, I would like to thank [Statsbomb](https://statsbomb.com/) for sharing their data and encouraging people to use them and share their insights. 
 Additionally, I would like to thank [CJ](https://www.linkedin.com/in/cjmayes/) and [Yash](https://twitter.com/Odriozolite) for motivating me to look into deep completion charts. 
 I used both their article and Jupyter notebook as guidelines for this project. 
 Also, I used part of their code to create the football pitch and add deep completions with a few modifications to adjust it to my plotting style. 
+
+<br>
+
+# 📞Feedback
+
+If you have any feedback or ideas to improve this project, feel free to contact me via:
+
+<a href="https://twitter.com/korfanakis">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://uk.linkedin.com/in/korfanakis">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
