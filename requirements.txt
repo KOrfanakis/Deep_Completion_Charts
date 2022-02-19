@@ -1,0 +1,8 @@
+numpy==1.19.5
+pandas==1.1.5
+matplotlib==3.3.4
+highlight_text==0.2
+json==2.0.9
+requests==2.25.1
+mplsoccer==1.0.5
+tqdm==4.50.2
