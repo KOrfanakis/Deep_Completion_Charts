@@ -7,12 +7,15 @@
 
 ---
 
+[![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KOrfanakis/Deep_Completion_Charts/main?labpath=Deep_Completions_Chart_nb.ipynb)
+[![made-with-python](https://img.shields.io/badge/Render%20with-nbviewer-red.svg)](https://nbviewer.org/github/KOrfanakis/Deep_Completion_Charts/blob/main/Deep_Completions_Chart_nb.ipynb)
+
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![and-jupyter](https://img.shields.io/badge/And%20-Jupyter-orange.svg)](https://jupyter.org/try)
-[![data-statsbomb](https://img.shields.io/badge/Data%20-StatsBomb-red.svg)](https://statsbomb.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-0298c3.svg)](https://opensource.org/licenses/MIT)
-[![GitHub-last-commit](https://img.shields.io/github/last-commit/KOrfanakis/Deep_Completion_Charts)](https://github.com/KOrfanakis/Deep_Completion_Charts/commits/master)
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=critical)
+[![data-statsbomb](https://img.shields.io/badge/Data%20-StatsBomb-f00000.svg)](https://statsbomb.com/)
+[![license:-MIT](https://img.shields.io/badge/License-MIT-0298c3.svg)](https://opensource.org/licenses/MIT)
+[![gitHub-last-commit](https://img.shields.io/github/last-commit/KOrfanakis/Deep_Completion_Charts)](https://github.com/KOrfanakis/Deep_Completion_Charts/commits/master)
+![star-badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=critical)
 
 <br>
 
@@ -29,16 +32,18 @@
 
 # 📌Motivation
 
-In this project, we will learn how to use Python to:
+In this project, we will learn how to use Python (version 3.6.8) to:
 
 - Import open event data from [Statsbomb](https://statsbomb.com/)’s [GitHub repository](https://github.com/statsbomb/open-data), 
 - Process the data to extract deep completion information, and 
-- Visualise all deep completions from a given player in a competition.
+- Visualise deep completions (to view some example figures, please visit the [Images folder](https://github.com/KOrfanakis/Deep_Completion_Charts/tree/main/Images)). 
 
 The project is inspired by [CJ Mayes](https://cj-mayes.com/about/)’s collaboration with [Yash T](https://twitter.com/Odriozolite), 
 published in the article '*[Creating a Deep Progression Chart with Yash T](https://cj-mayes.com/2022/01/05/deep-progression-chart-yash-t/)*'. 
 I have included many of their visualisation elements in my final figure but made modifications to adjust the format to my style. 
 I have also expanded on the data extraction and pre-processing steps, which was not the focus of CJ’s and Yash’s article.
+
+This is my second project on football analytics. The first one,  titled [Football Match Summary Report](https://github.com/KOrfanakis/Football_Match_Summary_Report), demonstrates how to extract data from Understat and visualise a football match's summary (shot map + stats).
 
 <br>
 
