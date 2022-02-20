@@ -43,15 +43,17 @@ published in the article '*[Creating a Deep Progression Chart with Yash T](https
 I have included many of their visualisation elements in my final figure but made modifications to adjust the format to my style. 
 I have also expanded on the data extraction and pre-processing steps, which was not the focus of CJ’s and Yash’s article.
 
-This is my second project on football analytics. The first one,  titled [Football Match Summary Report](https://github.com/KOrfanakis/Football_Match_Summary_Report), demonstrates how to extract data from Understat and visualise a football match's summary (shot map + stats).
+This is my second project on football analytics. The first one,  titled '*[Football Match Summary Report](https://github.com/KOrfanakis/Football_Match_Summary_Report)*', demonstrates how to extract data from Understat and visualise a football match's summary (shot map + stats).
 
 <br>
 
 # 🔍What are Deep Completions?
 
-To understand what a deep completion is, we start by defining a semi-circle with the centre at the mid-point of the goal and a diameter equal to the width of the penalty area plus the penalty arc (see orange dashed line in Figure 1). 
+To understand what a deep completion is, we start by defining a semi-circle with the centre at the mid-point of the goal and a radius equal to the width of the penalty area plus the penalty arc (see orange dashed line in Figure 1). 
 A pass or carry is classified as a deep completion if it starts outside this region but ends inside it. 
 Corners, free kicks, and incomplete passes are excluded from this analysis.
+
+<br>
 
 <p align="center">
   <img src="Images/Figure01-Raheem_Sterling.png" width="500" title="hover text">
