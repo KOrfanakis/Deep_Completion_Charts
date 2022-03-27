@@ -7,15 +7,37 @@
 
 ---
 
-[![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KOrfanakis/Deep_Completion_Charts/main?labpath=Deep_Completions_Chart_nb.ipynb)
-[![made-with-python](https://img.shields.io/badge/Render%20with-nbviewer-red.svg)](https://nbviewer.org/github/KOrfanakis/Deep_Completion_Charts/blob/main/Deep_Completions_Chart_nb.ipynb)
+<p align="center">
+    <a href="https://mybinder.org/v2/gh/KOrfanakis/Deep_Completion_Charts/main?labpath=Deep_Completions_Chart_nb.ipynb">
+        <img alt="Render With" src="https://mybinder.org/badge_logo.svg">
+    </a>
+    <a href="https://nbviewer.org/github/KOrfanakis/Deep_Completion_Charts/blob/main/Deep_Completions_Chart_nb.ipynb">
+        <img alt="Made with" src="https://img.shields.io/badge/Render%20with-nbviewer-red.svg">
+    </a>
+    <br/>
+</p>
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
-[![and-jupyter](https://img.shields.io/badge/And%20-Jupyter-orange.svg)](https://jupyter.org/try)
-[![data-statsbomb](https://img.shields.io/badge/Data%20-StatsBomb-f00000.svg)](https://statsbomb.com/)
-[![license:-MIT](https://img.shields.io/badge/License-MIT-0298c3.svg)](https://opensource.org/licenses/MIT)
-[![gitHub-last-commit](https://img.shields.io/github/last-commit/KOrfanakis/Deep_Completion_Charts)](https://github.com/KOrfanakis/Deep_Completion_Charts/commits/master)
-![star-badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=critical)
+<p align="center">
+    <a href="https://www.python.org/">
+        <img alt="Made With" src="https://img.shields.io/badge/Made%20with-Python-blue.svg">
+    </a>
+    <a href="https://jupyter.org/">
+        <img alt="Render With" src="https://img.shields.io/badge/And%20-Jupyter-orange.svg">
+    </a>
+    <a href="https://statsbomb.com/">
+        <img alt="Data" src="https://img.shields.io/badge/Data%20-StatsBomb-f00000.svg">
+    </a>
+    <a href="https://opensource.org/licenses/MIT">
+        <img alt="Licence" src="https://img.shields.io/badge/License-MIT-0298c3.svg">
+    </a>
+    <a>
+        <img alt="Star if useful" src="https://img.shields.io/github/last-commit/KOrfanakis/Deep_Completion_Charts">
+    </a>
+    <a>
+        <img alt="Star if useful" src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=critical">
+    </a>
+    <br/>
+</p>
 
 <br>
 
